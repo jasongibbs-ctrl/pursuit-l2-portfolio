@@ -1,0 +1,21 @@
+{
+  "name": "pursuit-l2-portfolio",
+  "version": "1.0.0",
+  "description": "Modern responsive portfolio site for Jason Gibbs",
+  "main": "script.js",
+  "scripts": {
+    "start": "python3 -m http.server 4173",
+    "test": "echo \"No automated tests configured\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasongibbs-ctrl/pursuit-l2-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasongibbs-ctrl/pursuit-l2-portfolio/issues"
+  },
+  "homepage": "https://github.com/jasongibbs-ctrl/pursuit-l2-portfolio#readme"
+}
